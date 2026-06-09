@@ -6,6 +6,7 @@ Meet the Team & Learn More. To see the official project stand, learn more about 
 # Implementation
  I utilised the following technologies to build the system (Feel free to modify this section with the actual tech you are using!):
  - ArduinoIDE with C++ (libraries available in the repository)
+
 LIBRARIES:
 Core ESP32 Go to Preferences → URL Install  https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
 BleMouse — download the ZIP from github.com/T-vK/ESP32-BLE-Mouse and add it with  Sketch → Include Library → Add .ZIP
