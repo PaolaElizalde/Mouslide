@@ -37,4 +37,4 @@ If you want to move the mouse, the cursor will move using this one.
 Each for each button.
 
 CONNECTIONS: 
-On the code and on the diagram Diagrama de Conexiones.jpg 
+On the code and on the diagram Mouslide_bb.jpg 
